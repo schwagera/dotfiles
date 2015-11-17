@@ -80,6 +80,7 @@ set scrolloff=3
 set wrap
 set splitright
 
+
 "READABILITY & NAVIGATION & EDITING
 set guifont=Meslo\ LG\ S\ Regular\ for\ Powerline:h20
 set ruler "show the cursor position all the time
