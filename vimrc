@@ -29,6 +29,7 @@ Plugin 'easymotion/vim-easymotion'
 Plugin 'scrooloose/nerdcommenter'
 Plugin 'ConradIrwin/vim-bracketed-paste'
 Plugin 'davidhalter/jedi-vim'
+Plugin 'jiangmiao/auto-pairs'
 
 " plugin from http://vim-scripts.org/vim/scripts.html
 " Plugin 'L9'
