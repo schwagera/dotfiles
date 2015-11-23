@@ -2,6 +2,7 @@
 "THIS AND THAT
 set nocompatible "Use Vim settings, rather than Vi settings (much better!).  
 
+let mapleader="<" " remapping leader before mappings take place
 "" VUNDLE STUFF #####################################
 filetype plugin indent off
 syntax off
