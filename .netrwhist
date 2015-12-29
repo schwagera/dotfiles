@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/aschwager/Google Drive/pygmalion-de_junior_linguists/Papers and other additional material/Pygmalion-DE Reading Group/CodeExamples/AlexCodeExamples'
+let g:netrw_dirhist_2='/Users/aschwager/Google Drive/pygmalion-de_junior_linguists/Papers and other additional material/Pygmalion-DE Reading Group/CodeExamples'
+let g:netrw_dirhist_3='/Users/aschwager/Google Drive/pygmalion-de_junior_linguists/Papers and other additional material/Pygmalion-DE Reading Group'
+let g:netrw_dirhist_4='/Users/aschwager/Google Drive/pygmalion-de_junior_linguists/Papers and other additional material'
+let g:netrw_dirhist_5='/Users/aschwager/Google Drive/pygmalion-de_junior_linguists'
+let g:netrw_dirhist_6='/Users/aschwager/Google Drive'
+let g:netrw_dirhist_7='/Users/aschwager'
+let g:netrw_dirhist_8='/Users'
